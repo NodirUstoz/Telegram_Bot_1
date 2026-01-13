@@ -6,7 +6,7 @@
 # Eslatma:
 # TOKEN ni hech qachon ochiq joylarda ulashmang!
 
-TOKEN = '8544522542:AAGWw7GoI6wR4_ZdVpC08dRq7vHhFnM0XHI'
+TOKEN = '8551015577:AAHt0fza4qtL5z_V60i9LPo8HMl5Qe41VgM'
 
 # DIQQAT:
 # Bu token ISHLAMAYDI.
