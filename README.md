@@ -1,2 +1,3 @@
-# Telegram_Bot_1
-8 va 9-sinflar uchun Telegram Bot yaratish kursiga start berdik.
+# Vorislar Telegram Boti
+# Telegram Bot kursining kodlari, har darsda yangilanib boriladi!
+# https://t.me/WorislarRobot
